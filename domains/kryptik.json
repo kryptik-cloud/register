@@ -1,0 +1,9 @@
+{
+    "description": "kryptik.is-a.dev",
+    "owner": {
+        "email": "root@krytpik.it"
+    },
+    "record": {
+        "CNAME": "www.kryptik.it"
+    }
+}
